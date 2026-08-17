@@ -1,4 +1,4 @@
-library Project1;
+library WebRequests;
 
 uses
   Web.WebBroker,
