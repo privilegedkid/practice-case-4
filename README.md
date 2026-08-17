@@ -148,7 +148,7 @@ SQL-скрипт создания базы данных и тестовых за
 
 Репозиторий содержит следующие основные файлы:
 
-* `WebRequests.dpr` / `Project1.dpr` — главный файл проекта Delphi;
+* `WebRequests.dpr` / `WebRequests.dpr` — главный файл проекта Delphi;
 * `WebModuleUnit1.pas` — программная логика WEB-модуля;
 * `WebModuleUnit1.dfm` — описание WEB-модуля;
 * `database.sql` — скрипт создания базы данных MS SQL Server;
